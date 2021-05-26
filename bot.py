@@ -119,5 +119,5 @@ async def kissMe(ctx, *, type = "once"):
     print(results)
 
 
-client.run("NjU0NTQzMzQ5MjA1OTU4NjU3.XfHE_w.yZwOnEldv4zr1hJNSpx73jE0sX8")
+client.run("TOKEN")
 
