@@ -23,7 +23,7 @@ async def on_ready():
 
 @client.command()
 async def showCommands(ctx):
-    str = "\n*ping \n*add (SongName)  \n*choose (number of songs) \n*show - shows all songs in playlist \n*remove (song number) \n*edit (songnumber) (correction)"
+    str = "\n*ping \n*play youtubeURL \n*join \n*leave \n*kissMe"
     await ctx.send(str)
 
 
